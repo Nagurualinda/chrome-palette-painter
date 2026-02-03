@@ -1,73 +1,21 @@
-# Welcome to your Lovable project
+# 🎨 Chrome Palette Painter
 
-## Project info
+A lightweight, developer-friendly Chrome extension built to extract, visualize, and manage color palettes from any website in real-time.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Overview
+**Chrome Palette Painter** simplifies the design workflow by allowing users to "paint" their own palettes based on the colors they find on the web. It uses the **[Chrome Extension API](https://developer.chrome.com)** to interact with the browser and provide a seamless UI for color discovery.
 
-There are several ways of editing your application.
+## ✨ Key Features
+*   **Color Extraction:** Identifies and captures color codes from active tabs.
+*   **Clean UI:** Simple, intuitive popup interface for managing your swatches.
+*   **Manifest V3:** Built using the latest **[Google Chrome Standards](https://developer.chrome.com)** for better security and performance.
+*   **Developer Friendly:** Easy-to-read source code, perfect for learning extension development.
 
-**Use Lovable**
+## 🛠️ Installation
+Since this project is currently in development, you can install it via **Developer Mode**:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com
